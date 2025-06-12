@@ -2,6 +2,8 @@
 Chat bot for history
 ## Describtion
 This project is a Rag System that answers questions about general and famous historical events , places or characters for some counteries
+### Features
+The user have the ability to use either Qwen3 0.6B or Qwen 1.8B , Choose the number of chunks to retrieve and to choose which vector database to use (FAISS or Weaviate)
 ### Data
 the data was got from kaggle (https://www.kaggle.com/datasets/budibudi/history-from-wikipedia)
 the System is able to answer question about 6 counteries which are (China - Egypt - England - France - Germany - Greece)
